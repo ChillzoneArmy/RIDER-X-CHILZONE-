@@ -43,12 +43,12 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['918107768770'] //ur owner number
 global.ownername = "𝙼𝚛 𝚄𝚗𝚔𝚗𝚘𝚠𝚗 𝚁𝚒𝚍𝚎𝚛"
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ytname = "YT: RIDER" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "RIDER Bot MD" //ur bot name
+global.botname = "༄𝚁𝙸𝙳𝙴𝚁𝙱𝙾𝚃 @2022𝙼𝙳" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
