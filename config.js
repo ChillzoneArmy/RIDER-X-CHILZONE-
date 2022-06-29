@@ -41,11 +41,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918107768770'] //ur owner number
-global.ownername = "𝙼𝚛 𝚄𝚗𝚔𝚗𝚘𝚠𝚗 𝚁𝚒𝚍𝚎𝚛"
-global.ytname = "YT: RIDER" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['918200767407'] //ur owner number
+global.ownername = "𝙼𝚛 𝚁𝚒𝚝𝚒𝚔 𝚁𝚒𝚍𝚎𝚛"
+global.ytname = "YT: 𝚃𝙴𝙰𝙼 𝚁𝙸𝙳𝙴𝚁" //ur yt chanel name
+global.socialm = "GitHub: 𝚃𝙴𝙰𝙼𝚁𝙸𝙳𝙴𝚁𝚂" //ur github or insta name
+global.location = "India, 𝙶𝚄𝙹𝚁𝙰𝚃, 𝚂𝚄𝚁𝙰𝚃" //ur location
 
 //bot bombdy
 global.botname = "༄𝚁𝙸𝙳𝙴𝚁𝙱𝙾𝚃 @2022𝙼𝙳" //ur bot name
@@ -55,10 +55,10 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Guy Xeon"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['918107768770'] //ur owner tag
-global.ownernummenu = ['918107768770'] //ur owner number in menu and all
+global.ownertag = ['91918200767407'] //ur owner tag
+global.ownernummenu = ['91918200767407'] //ur owner number in menu and all
 global.watermark = "Rider Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
+global.botscript = "https://github.com/RIDERGORANSH/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr"
 global.linkz2 = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr"
 
