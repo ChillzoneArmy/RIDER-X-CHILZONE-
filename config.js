@@ -48,11 +48,11 @@ global.socialm = "GitHub: 𝚃𝙴𝙰𝙼𝚁𝙸𝙳𝙴𝚁𝚂" //ur github 
 global.location = "India, 𝙶𝚄𝙹𝚁𝙰𝚃, 𝚂𝚄𝚁𝙰𝚃" //ur location
 
 //bot bombdy
-global.botname = "༄𝚁𝙸𝙳𝙴𝚁𝙱𝙾𝚃 @2022𝙼𝙳" //ur bot name
+global.botname = "༄𝙲𝙷𝙸𝙻𝚉𝙾𝙽𝙴𝙱𝙾𝚃 @2022𝙼𝙳 𝙱𝚈 𝚄𝚗𝚔𝚗𝚘𝚠𝚗 𝚁𝚒𝚍𝚎𝚛" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.author = "🦄𝙼𝚛 𝚞𝚗𝚔𝚗𝚘𝚠𝚗 𝚁𝚒𝚍𝚎𝚛"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['91918200767407'] //ur owner tag
